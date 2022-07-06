@@ -1,0 +1,33 @@
+body{
+  background-color: #FFEE63;
+  text-align: center;
+}
+h1{
+  color: #7C3E66 ;
+  font-size: 120px;
+  font-family: cursive;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+table{
+  margin: 0px auto;
+}
+#player-1{
+  padding-right: 40px;
+}
+#player-2{
+  padding-left: 40px;
+}
+h2{
+  font-family: cursive;
+  color: cadetblue;
+  font-size: 50px;
+}
+p{
+  padding-top: 30px;
+}
+button{
+  border: none;
+  box-sizing: none;
+  display: contents;
+}
